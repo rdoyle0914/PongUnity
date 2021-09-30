@@ -1,13 +1,13 @@
 # PongUnity
 Pong project in Unity
 
-Quick launch
+## Quick launch
 -Doubleclick the pong.exe file and it will run.
   -Check"windowed" in the "pong configuration" menu. It will be easier to close the program
 -Use the "a" and "d" keysto move the paddle on the right.
 -A game goes to 10 points, gives a GAME OVER message and restarts. Compiling the code
 
-Running The Code
+## Running The Code
 1. download the files from Github
 2. If you don't already have Unity refer to the installation guide below and return when finished
 3. open unity and select the open file option located in the top right corner
@@ -16,7 +16,7 @@ Running The Code
 6. Select "File" --> "Build and Run"
 7. unity will compile all necessary files into a pong application file that you can use to Run the application
 
-Installing Unity
+## Installing Unity
 1.Go to Unity’s Download Page and click “Download Installer for Windows”. AUnityDownloadAssistant-x.x.exefile should be downloaded to your “Downloads” folder (where x.x is the current Unity version).
 2.Open the downloaded installer. You will see a screen like this:
 3.Accept the license and terms and click Next.
